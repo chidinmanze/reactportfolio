@@ -1,0 +1,12 @@
+
+#me {
+    border-radius: 100px;
+}
+
+#about {
+    background-color: white;
+    color: black;
+    word-wrap: normal;
+    text-align: center;
+    padding: 20px;
+}
