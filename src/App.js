@@ -5,6 +5,8 @@ import CardRow1 from './components/CardRow1'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import CardRow2 from './components/CardRow2';
 import CardRow3 from './components/CardRow3';
+import ResumeFile from './components/Resume';
+import Contact from './components/Contact';
 
 
 function App() {
@@ -14,13 +16,11 @@ function App() {
         <Nav/>
         </header>
         <About/>
-        <div>
-      <h2>Projects</h2>
-      <p id="proj">Here are a few of the projects I've worked on.</p>
-      </div>
         <CardRow1/>
         <CardRow2/>
         <CardRow3/>
+        <ResumeFile/>
+        <Contact/>
       
 
     </div>
