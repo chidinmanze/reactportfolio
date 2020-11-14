@@ -14,6 +14,10 @@ function App() {
         <Nav/>
         </header>
         <About/>
+        <div>
+      <h2>Projects</h2>
+      <p id="proj">Here are a few of the projects I've worked on.</p>
+      </div>
         <CardRow1/>
         <CardRow2/>
         <CardRow3/>

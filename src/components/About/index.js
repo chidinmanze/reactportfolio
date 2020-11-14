@@ -20,9 +20,7 @@ return (
       <br/>
       <br/>
       <a href="https://www.linkedin.com/in/cnze/" target="_blank"><img src={linkedinlogo} alt= "LinkedIn logo"/></a>
-      <br/>
-      <br/>
-      <br/>
+      
       <br/>
     </div>
     </div>

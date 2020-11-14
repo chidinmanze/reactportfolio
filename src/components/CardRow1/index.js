@@ -9,10 +9,7 @@ function CardRow1() {
   return (
     
     <div className="row" id="projectcards">
-    <div>
-      <h2>Projects</h2>
-      <p id="proj">Here are a few of the projects I've worked on.</p>
-      </div>
+   
       <div className="card-group">
         <WeatherDineApp />
         <CodingQuizApp />
