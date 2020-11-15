@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/chidinmanze/reactportfolio/static/css/main.9e54f626.chunk.css",
+    "main.js": "/chidinmanze/reactportfolio/static/js/main.ee768b53.chunk.js",
+    "main.js.map": "/chidinmanze/reactportfolio/static/js/main.ee768b53.chunk.js.map",
+    "runtime-main.js": "/chidinmanze/reactportfolio/static/js/runtime-main.96fa29d6.js",
+    "runtime-main.js.map": "/chidinmanze/reactportfolio/static/js/runtime-main.96fa29d6.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/chidinmanze/reactportfolio/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3089b451.chunk.js": "/chidinmanze/reactportfolio/static/js/2.3089b451.chunk.js",
+    "static/js/2.3089b451.chunk.js.map": "/chidinmanze/reactportfolio/static/js/2.3089b451.chunk.js.map",
+    "static/js/3.77caa25a.chunk.js": "/chidinmanze/reactportfolio/static/js/3.77caa25a.chunk.js",
+    "static/js/3.77caa25a.chunk.js.map": "/chidinmanze/reactportfolio/static/js/3.77caa25a.chunk.js.map",
+    "index.html": "/chidinmanze/reactportfolio/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/chidinmanze/reactportfolio/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.9e54f626.chunk.css.map": "/chidinmanze/reactportfolio/static/css/main.9e54f626.chunk.css.map",
+    "static/js/2.3089b451.chunk.js.LICENSE.txt": "/chidinmanze/reactportfolio/static/js/2.3089b451.chunk.js.LICENSE.txt",
+    "static/media/Chidinma.f3f98ced.jpg": "/chidinmanze/reactportfolio/static/media/Chidinma.f3f98ced.jpg",
+    "static/media/ChidinmaNzeResume2020.43d6db8d.pdf": "/chidinmanze/reactportfolio/static/media/ChidinmaNzeResume2020.43d6db8d.pdf",
+    "static/media/CodingQuiz.5a4ee029.JPG": "/chidinmanze/reactportfolio/static/media/CodingQuiz.5a4ee029.JPG",
+    "static/media/Horiseon.fce5abb1.JPG": "/chidinmanze/reactportfolio/static/media/Horiseon.fce5abb1.JPG",
+    "static/media/Notetaker.dc669c24.JPG": "/chidinmanze/reactportfolio/static/media/Notetaker.dc669c24.JPG",
+    "static/media/PasswordGenerator.ab3404a5.JPG": "/chidinmanze/reactportfolio/static/media/PasswordGenerator.ab3404a5.JPG",
+    "static/media/Pedalpals.2b364bdd.JPG": "/chidinmanze/reactportfolio/static/media/Pedalpals.2b364bdd.JPG",
+    "static/media/style.css": "/chidinmanze/reactportfolio/static/media/ResumeImage.ecf32234.png",
+    "static/media/TeamGen.1727fbce.JPG": "/chidinmanze/reactportfolio/static/media/TeamGen.1727fbce.JPG",
+    "static/media/Travel.90e7c6f3.JPG": "/chidinmanze/reactportfolio/static/media/Travel.90e7c6f3.JPG",
+    "static/media/WeatherDashboard.d355cdd3.JPG": "/chidinmanze/reactportfolio/static/media/WeatherDashboard.d355cdd3.JPG",
+    "static/media/WeatherDine.d7ec5271.JPG": "/chidinmanze/reactportfolio/static/media/WeatherDine.d7ec5271.JPG",
+    "static/media/App.css": "/chidinmanze/reactportfolio/static/media/frontback.e4e68c87.jpg",
+    "static/media/linkedinlogo.6a72c8bc.jpg": "/chidinmanze/reactportfolio/static/media/linkedinlogo.6a72c8bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96fa29d6.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3089b451.chunk.js",
+    "static/css/main.9e54f626.chunk.css",
+    "static/js/main.ee768b53.chunk.js"
+  ]
+}
