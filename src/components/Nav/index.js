@@ -5,7 +5,7 @@ function Nav() {
   
 
   return (
-    <ul class="nav justify-content-center">
+    <ul class="nav justify-content-center" id="navrow">
               <li class="nav-item">
                 <a
                   class="nav-link active"

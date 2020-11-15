@@ -4,3 +4,4 @@
 [1113/191031.290:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1113/211327.068:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1113/213637.715:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1114/074044.581:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\chidi\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\02125640-69f6-47f9-8a3d-1e6a579df8e2: The system cannot find the path specified. (0x3)

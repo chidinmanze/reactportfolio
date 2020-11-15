@@ -9,8 +9,11 @@ import linkedinlogo from './img/linkedinlogo.jpg';
 function About () {
 
 return (
+    
+   
     <div classnName="row" id="about">
     <div className="col-sm-2  col-md-8 col-lg-12">
+   
       <h2 id="about">About</h2>
       <img src={Chidinma} alt="Picture of Chidinma Nze" id="me"/>
       <p>Hello, I'm Chidinma Nze, web developer earning a certificate in full-stack web development from Michigan State University. In addition to HTML, CSS, and Javascript, I am learning the MERN stack, (MongoDB, Express.js, React.js, Node.js).
